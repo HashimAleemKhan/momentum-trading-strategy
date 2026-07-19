@@ -1,5 +1,5 @@
 # Cross-Sectional Momentum Strategy
-
+![Strategy results](momentum_results.png)
 A cross-sectional momentum strategy built in Python across 50+ US equities.
 Stocks are ranked each month by trailing 12-1 month returns; the top quintile
 is bought and the bottom quintile is shorted, equal-weighted. The script also
